@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @karenmelo
-- 👀 I’m interested in .Net developer and design
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in .Net developer, front end with vue.js, angular, react and design
+- 🌱 I’m currently learning Angular, HTML, tests, CSS
 - 📫 How to reach me karen_melo@live.com.
 
 <!---
