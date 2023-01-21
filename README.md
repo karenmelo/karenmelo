@@ -1,8 +1,13 @@
  
-### Oiii eu sou a Karen Melo, estudante de tecnologia e desenvolvedora de software!
+### Oiii, eu sou a Karen Melo!
+### Sou uma eterna estudante de tecnologia e desenvolvedora de software!
 
- <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=karenmelo&theme=dark&show_icons=true"/></a>
-  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenmelo&theme=dark&show_icons=true"/></a>
+ <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=karenmelo&theme=dark&show_icons=true"/></a> 
+ ##
+ 
+ <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenmelo&theme=dark&show_icons=true"/></a>
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
