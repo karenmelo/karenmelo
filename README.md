@@ -28,7 +28,7 @@
   ##
  
 <div>  
-  <a href = "https://instagram.com/nerakdesigner" target="blank">
+  <a target="_blank" href = "https://instagram.com/nerakdesigner" >
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </a>
   <a href = "mailto:karen_melo@live.com" target="_blank">
