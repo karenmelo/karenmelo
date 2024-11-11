@@ -23,7 +23,6 @@
   <img align="center" alt="Kay-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Kay-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Kay-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1066144804611817584/1066144893459775518/minha-imagem.png?width=676&height=676">          
 </div>
   
   ##
